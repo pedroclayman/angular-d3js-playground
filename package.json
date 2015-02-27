@@ -1,0 +1,35 @@
+{
+  "name": "angular-d3js-playground",
+  "version": "0.0.0",
+  "description": "Fooling around with d3js and angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedroclayman/angular-d3js-playground.git"
+  },
+  "keywords": [
+    "angular",
+    "d3"
+  ],
+  "author": "Peter Mihalik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedroclayman/angular-d3js-playground/issues"
+  },
+  "homepage": "https://github.com/pedroclayman/angular-d3js-playground",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-concat": "^2.4.3",
+    "gulp-concat-css": "^2.0.0",
+    "gulp-jsmin": "^0.1.4",
+    "gulp-karma": "0.0.4",
+    "gulp-minify-css": "^0.4.3",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^1.3.2"
+  }
+}

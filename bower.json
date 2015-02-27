@@ -1,0 +1,26 @@
+{
+  "name": "angular-d3js-playground",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pedroclayman/angular-d3js-playground",
+  "authors": [
+    "Peter Mihalik <peter.mihalik@gmail.com>"
+  ],
+  "description": "Fooling around with angular and d3",
+  "keywords": [
+    "angular",
+    "d3"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "angular": "~1.3.14"
+  }
+}

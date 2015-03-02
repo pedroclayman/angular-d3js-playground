@@ -21,6 +21,14 @@ gulp.task('watch', ['test-watch'], function() {
   gulp.watch('src/index.html', ['copy-content']);
 });
 
+
+
+gulp.task('clear-dist', function() {
+  del([
+    'dist/**'
+  ]);
+});
+
 gulp.task('clear-dist-js', function() {
   del([
     'dist/js'
